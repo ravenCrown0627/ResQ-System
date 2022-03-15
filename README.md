@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # ResQ-System 👨‍🚒
 ResQ-System is a simple crowd-control system which is used to manage the victims' who affected by the flood. 
 
@@ -10,4 +12,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License 📝
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
