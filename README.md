@@ -1,4 +1,10 @@
 # ResQ-System
-This is a system which used to solve the crowd-control system in a more efficient way. 
-It is a project that given by my lecturer during my Algorithm Class.
-Feel free to used it for further enchancement!
+ResQ-System is a simple crowd-control system which is used to manage the victims' who affected by the flood. 
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
